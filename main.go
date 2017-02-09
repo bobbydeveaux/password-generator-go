@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"password-generator-go/generator"
+	"github.com/bobbydeveaux/password-generator-go/generator"
 )
 
 var (
